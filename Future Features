@@ -1,0 +1,8 @@
+I had an idea for new features and I didn't want to forget so I put it here.
+This can be a note for potential ideas to add to the CTS Gui.
+Feel free to add stuff if you think of anything.
+
+Feature List:
+Clock Tree Difference
+  In order to show improvement, we typically synthesize the same clock tree through different algorithms.
+  I would like something to show me what stayed the same and what changed between two of the same starting clock trees.
